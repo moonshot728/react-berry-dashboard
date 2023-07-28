@@ -3,9 +3,6 @@
     "version": "0.0.4",
     "private": true,
     "homepage": "https://berrydashboard.io",
-    "engines": {
-        "node": "18.x"
-    },
     "dependencies": {
         "@emotion/react": "^11.4.0",
         "@emotion/styled": "^11.3.0",
