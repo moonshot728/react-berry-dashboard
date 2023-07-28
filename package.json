@@ -3,9 +3,8 @@
     "version": "0.0.4",
     "private": true,
     "homepage": "https://berrydashboard.io",
-    "build": {
-        "yarn": "v14.0.0,v16.0.0",
-        "npm": "v14.0.0,v16.0.0"
+    "engines": {
+        "node": "16.x"
     },
     "dependencies": {
         "@emotion/react": "^11.4.0",
